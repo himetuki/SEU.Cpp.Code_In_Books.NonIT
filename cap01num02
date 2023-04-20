@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int sum(int x, int y)	// A
+{
+    int z;
+
+    z = x + y;
+    return z; 			// B 
+}
+int main(void)
+{
+    int a, b, c;			// 定义变量a、b和c
+
+    a = 3; b = 5;		// 给变量a和b赋值
+    c = sum(a, b);		// C行，调用函数sum( ) 求a与b之和，结果赋给变量c
+    cout << c << '\n';	// 输出c
+    return 0;
+}
