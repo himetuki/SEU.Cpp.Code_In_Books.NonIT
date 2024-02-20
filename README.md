@@ -11,6 +11,7 @@
 
 | 其他的前辈所提供的学习资料 |
 |--|
-|[ChangWinde / SouthEastUniversity | 东南大学软件学院课程资料](https://github.com/ChangWinde/SouthEastUniversity/tree/master)|
-|[zjdx1998 / seucourseshare | 东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)|
-|[MoonOutCloudBack/SEUCSE_undergraduate_materials | 2019级|东南大学|计算机科学与技术（09系）**大学四年的课程学习材料,秉持着帮助他人的愿景**](https://github.com/MoonOutCloudBack/SEUCSE_undergraduate_materials)]
+
+[ChangWinde / SouthEastUniversity | 东南大学软件学院课程资料](https://github.com/ChangWinde/SouthEastUniversity/tree/master)
+[zjdx1998 / seucourseshare | 东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+[MoonOutCloudBack/SEUCSE_undergraduate_materials | 2019级|东南大学|计算机科学与技术（09系）**大学四年的课程学习材料,秉持着帮助他人的愿景**](https://github.com/MoonOutCloudBack/SEUCSE_undergraduate_materials)]
