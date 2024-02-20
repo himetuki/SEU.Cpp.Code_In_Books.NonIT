@@ -20,6 +20,6 @@
 
 |附上一些自觉有意思或有用的东大工具|
 |:-|
-|[seucseWeb / seucseWeb.github.io - 东南大学常用网址导航](https://seucseweb.github.io/)|
-|[Golevka2001 / Where-Are-Available-Chargers - 东南大学充电桩可用情况查询](https://chargers.injs.eu/status)|
-|[OxalisCu / SEU-LabSafetyExamScript - 东南大学实验室安全考核自动答题脚本](https://github.com/OxalisCu/SEU-LabSafetyExamScript)|
+|[seucseWeb / seucseWeb.github.io - 东南大学**常用网址**导航](https://seucseweb.github.io/)|
+|[Golevka2001 / Where-Are-Available-Chargers - 东南大学**充电桩**可用情况查询](https://chargers.injs.eu/status)|
+|[OxalisCu / SEU-LabSafetyExamScript - 东南大学**实验室安全考核**自动答题脚本](https://github.com/OxalisCu/SEU-LabSafetyExamScript)|
