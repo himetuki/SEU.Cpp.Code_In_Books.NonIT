@@ -9,7 +9,7 @@
 
 **2024.2.20** 尝试上传机械工程学院 大二 学习资料
 
-| 其他的前辈所提供的学习资料 |
+| 提供一些其他的前辈上传的学习资料 |
 |--|
 
 [ChangWinde / SouthEastUniversity | 东南大学软件学院课程资料](https://github.com/ChangWinde/SouthEastUniversity/tree/master)
