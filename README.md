@@ -16,6 +16,6 @@
 
 [zjdx1998 / seucourseshare | 东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
 
-[【DarkCauseAndEffect】东南大学C++课程课后实验](https://github.com/DarkCauseAndEffect/Programming-and-Languages) ）
+[DarkCauseAndEffect / Programming-and-Languages | 东南大学C++课程课后实验](https://github.com/DarkCauseAndEffect/Programming-and-Languages) 
 
-[MoonOutCloudBack/SEUCSE_undergraduate_materials | 2019级|东南大学|计算机科学与技术（09系）**大学四年的课程学习材料,秉持着帮助他人的愿景**](https://github.com/MoonOutCloudBack/SEUCSE_undergraduate_materials)]
+[MoonOutCloudBack / SEUCSE_undergraduate_materials | 2019级|东南大学|计算机科学与技术（09系）**大学四年的课程学习材料,秉持着帮助他人的愿景**](https://github.com/MoonOutCloudBack/SEUCSE_undergraduate_materials)]
