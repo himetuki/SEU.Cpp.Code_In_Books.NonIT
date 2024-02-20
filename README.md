@@ -20,3 +20,7 @@
 [DarkCauseAndEffect / Programming-and-Languages | 东南大学**C++课程课后实验**](https://github.com/DarkCauseAndEffect/Programming-and-Languages) 
 
 [MoonOutCloudBack / SEUCSE_undergraduate_materials | 来自2019级前辈 **大学四年的课程学习材料,秉持着帮助他人的愿景**](https://github.com/MoonOutCloudBack/SEUCSE_undergraduate_materials)]
+
+|附上一些自觉有意思或有用的东大工具|
+|:-|
+|[]()|
